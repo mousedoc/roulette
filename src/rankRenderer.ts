@@ -41,7 +41,7 @@ export class RankRenderer implements UIObject {
     ctx.textAlign = 'right';
     ctx.font = '10pt sans-serif';
     ctx.fillStyle = '#666';
-    ctx.fillText(`${winners.length} / ${winners.length + marbles.length}`, width - 5, this.fontHeight);
+    ctx.fillText(`${0} / ${0}`, width - 5, this.fontHeight);
 
     ctx.beginPath();
     ctx.rect(0, this.fontHeight + 2, width, this.maxY);
