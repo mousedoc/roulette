@@ -1,3 +1,7 @@
+# 소폭 수정 버전
+- 우상단 인원 수 0/0으로 변경
+
+
 # Marble roulette
 
 This is a lucky draw by dropping marbles.
